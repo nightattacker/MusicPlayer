@@ -34,12 +34,12 @@ HELP = """**Common Commands**:
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('Update Channel', url='https://t.me/subin_works'),
-        InlineKeyboardButton('Other Bots', url='https://t.me/subin_works/84'),
+        InlineKeyboardButton('Channel', url='https://t.me/joinchat/HZsxF0wLtig0YzZl'),
+        InlineKeyboardButton('Group', url='https://t.me/moviecounter2020'),
     ],
     [
-        InlineKeyboardButton('Bugs?', url='https://t.me/subinps'),
-        InlineKeyboardButton('Source', url='https://github.com/subinps/MusicPlayer'),
+        InlineKeyboardButton('My Father', url='https://t.me/nightattacker111'),
+        InlineKeyboardButton('Source', url='https://github.com/nightattacker/MusicPlayer'),
     ],
     [
         InlineKeyboardButton('Help', callback_data='help'),
